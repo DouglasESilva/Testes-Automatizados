@@ -67,3 +67,16 @@ Proibido conectar no banco e/ou sair da rede.
     <scope>test</scope>
   </dependecia>
 ```
+
+# Na Pratica
+
+## Teste uniatioc com JUNIT
+
+- Primeiramente deve localizar a pasta test no seu projeto  e la criar uma pasta com o nome da classe que ira trabalhar.
+
+![image alt](https://github.com/DouglasESilva/Testes-Automatizados/blob/f1f271a21f62051158a5c22d499f83003a7b301c/Captura%20de%20tela%202026-07-01%20135711.png)
+
+- A classe na pasta de test deve ter o mesmo nome das classe ja criada. Tendo uma pequena diferencia onde voce deve adicionar a palavra Test ao fina do nome da classe.
+
+## Aqui esta um exemplo de teste unitario.
+
