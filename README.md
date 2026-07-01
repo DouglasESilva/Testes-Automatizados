@@ -78,5 +78,7 @@ Proibido conectar no banco e/ou sair da rede.
 
 - A classe na pasta de test deve ter o mesmo nome das classe ja criada. Tendo uma pequena diferencia onde voce deve adicionar a palavra Test ao fina do nome da classe.
 
-## Aqui esta um exemplo de teste unitario.
+## Aqui esta um exemplo de teste unitario:
+
+![image alt](https://github.com/DouglasESilva/Testes-Automatizados/blob/9814417d463cbf5c3af6254dccc5576028c9cf7a/Captura%20de%20tela%202026-07-01%20140304.png)
 
