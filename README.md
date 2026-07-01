@@ -26,9 +26,7 @@ da aplicação.
 - Utiliza outros softwares para verificar qualidade e confiabilidade da aplicação desenvolvida em relação em reusitos.
 
 ---
----
----
----
+
 # Overview
 
 ## Introdução a Testes de softwares
@@ -48,9 +46,7 @@ o sistema para identificar flhas, bugs e erros automaticamente, antes da impleme
 Proibido conectar no banco e/ou sair da rede.
 
 ---
----
----
----
+
 # Ferramentas e Locais dos Testes
 
 ## JUNIT + MOCKITO
